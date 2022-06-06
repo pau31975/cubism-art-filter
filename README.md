@@ -1,4 +1,4 @@
-# cubism-art-filter
+# cubism_art_filter
 Image Filter for Applying the Cubism Artstyle [Made Famous by Pablo Picasso] onto an Image
 1. Select random pixels in the image as centroid
 2. Group every pixels according to which centroid has the closest distance
