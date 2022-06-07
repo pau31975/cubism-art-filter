@@ -139,3 +139,4 @@ def compare(cimg, imgo, numc):
     plt.title('cubism')
 
     plt.show()
+    
